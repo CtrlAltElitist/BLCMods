@@ -12,6 +12,7 @@ Very rare weapon
 Gemstone weapon
 ![Gemstone weapon](https://raw.githubusercontent.com/bugworm/BLCMods/sorting/Borderlands%202%20mods/Gear%20replacement/Balanced/Massive/Atlas%20Reborn%20by%20Aaron0000/resources/5.jpg)
 ![Shield of Heracles](https://raw.githubusercontent.com/bugworm/BLCMods/sorting/Borderlands%202%20mods/Gear%20replacement/Balanced/Massive/Atlas%20Reborn%20by%20Aaron0000/resources/6.jpg)
+![Erinyes](https://i.imgur.com/bZOeMq3.jpg)
 # List of changes
 All Vladof items (excluding class mods and some unique/seraph items) have been reskinned and renamed. This includes gemstone skins (now Orichalcum) and prefixes. Names are based off of Greek weapons and prefixes are based off of "superiority" as well as a few BL1 prefixes (List of Prefixes and Titles can be found below).
 
